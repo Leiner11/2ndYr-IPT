@@ -1,0 +1,10 @@
+<!ELEMENT Subject (Subject_Info+)>
+
+<!ELEMENT Subject_Info (Subcode+,Units+,Description+,Category+)>
+	<!ELEMENT Subcode (#PCDATA)>
+	<!ATTLIST Subcode Number CDATA #IMPLIED>
+	<!ELEMENT Units (#PCDATA)>
+	<!ELEMENT Description (#PCDATA)>
+	<!ELEMENT Category (#PCDATA)>
+		
+		

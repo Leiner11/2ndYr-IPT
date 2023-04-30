@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Subject SYSTEM "testsubject.dtd">
+<Subject>
+
+<Subject_Info>
+	<Subcode Number="1"> B-2ndGEC400 </Subcode>
+	<Units> 2 </Units>
+	<Description> READINGS IN PHILIPPINE HISTORY </Description>
+	<Category> Minor </Category>
+</Subject_Info>
+
+<Subject_Info>
+	<Subcode Number="2"> B-2ndPHE401 </Subcode>
+	<Units> 1 </Units>
+	<Description> Team Sports </Description>
+	<Category> Minor </Category>
+</Subject_Info>
+
+<Subject_Info>
+	<Subcode Number="3"> B-2ndFCL400 </Subcode>
+	<Units> 1 </Units>
+	<Description> The Perpetualite: A Man for Others </Description>
+	<Category> Minor </Category>
+</Subject_Info>
+
+<Subject_Info>
+	<Subcode Number="4"> B-2ndCCS2205L </Subcode>
+	<Units> 2 </Units>
+	<Description> DATABASE SYSTEM 1 (INFORMATION MANAGEMENT) Lab </Description>
+	<Category> Major </Category>
+</Subject_Info>
+
+<Subject_Info>
+	<Subcode Number="5"> B-2ndCCS2205 </Subcode>
+	<Units> 2 </Units>
+	<Description> DATABASE SYSTEM 1 (INFORMATION MANAGEMENT) Lec </Description>
+	<Category> Major </Category>
+</Subject_Info>
+
+</Subject>
